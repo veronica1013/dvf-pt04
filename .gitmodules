@@ -1,0 +1,3 @@
+[submodule "dsc-data-science-env-config"]
+	path = dsc-data-science-env-config
+	url = https://github.com/learn-co-curriculum/dsc-data-science-env-config.git
